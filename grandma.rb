@@ -14,6 +14,7 @@
 
 def speak_to_grandma(phrase)
 
-if phrase.  
+if phrase == 
+  puts
   
 end
